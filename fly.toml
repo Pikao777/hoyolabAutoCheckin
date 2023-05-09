@@ -17,7 +17,5 @@ processes = []
 # 有多個帳號需要簽到的話請用逗號分隔
 # COOKIES='cookie1,cookie2,cookie3'
 COOKIES='YOUR_COOKIES'
-# 如有多個telegram帳號需要回傳簽到結果請依cookie順序用逗號分隔
-# CHAT_ID='id1,id2,id3'
 CHAT_ID='YOUR_TELEGRAM_CHAT_ID'
 API_KEY='YOUR_TELEGRAM_BOT_API'
