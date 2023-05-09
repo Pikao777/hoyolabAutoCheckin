@@ -10,8 +10,7 @@ https://www.hoyolab.com/home
 2. 按下 F12 或是 右鍵>檢查 開啟開發者工具
 3. 開發者工具最上方欄位切換到 NetWork (網路)，中間欄位選擇 All 並且按下重新整理
 4. Name(名稱) 最上面找一下 home ，點選後往下滑至 Request Header (要求標頭)， cookie 就在裡面請全部複製下來貼至 fly.toml 檔案中對應位置
-
-![image](https://github.com/Pikao777/hsr_auto_sign/blob/main/md_photo/cookie_01.jpg)
+5. ![image](https://github.com/Pikao777/hsr_auto_sign/blob/main/md_photo/cookie_01.jpg)
 
 ### Telegram_bot設置
 1. 搜尋BotFather(有藍勾勾的)並加入好友
