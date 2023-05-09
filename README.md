@@ -1,4 +1,4 @@
-# HoYoLab每日遊戲自動簽到 + Telegram簽到結果回報機器人
+# HoYoLab每日自動簽到 + Telegram簽到結果回報機器人
 * **將telegrram_bot部屬至fly.io，並於簽到完成後回傳結果**
 * **適用於多帳號自動簽到**
 * **可回傳簽到結果至多個telegram帳號**
