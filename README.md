@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="TpSKKjtpEM5yXvJmUvEo_mj_zSCPsSr7vlkCRapKuv8" />
 # HoYoLab每日自動簽到 + Telegram簽到結果回報機器人
 * **將telegrram_bot部屬至fly.io，並於簽到完成後回傳結果**
 * **可回傳簽到結果至多個telegram帳號**
