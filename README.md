@@ -4,7 +4,7 @@
 
 # HoYoLab每日自動簽到 + Telegram簽到結果回報機器人
 * **將telegrram_bot部屬至fly.io，並於簽到完成後回傳結果**
-* **可回傳簽到結果至多個telegram帳號**
+* **可回傳簽到結果至telegram帳號**
 * **可自訂簽到時間(hsr_sign.py檔)**
 
 ### 1.Cookie獲取方式(以Chrome為例)
